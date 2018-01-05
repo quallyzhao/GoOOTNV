@@ -21,7 +21,7 @@
 ### [每日资讯](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
 >转自gocn.io,谢大出品，必属精品
 
-### [撸不能停](eBook/directory.md)
+### [撸不能停]()
 >leetcode刷过了么，今天小怪刷过了么
 
 加入我们
