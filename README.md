@@ -15,7 +15,7 @@
 > 新手可以选择哪些视频
 > [领取任务一](eBook/3.1.md)
 
-### [必敲代码](eBook/directory.md)
+### [必敲代码](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
 >新手必敲代码喽，打小怪升级
 
 ### [每日资讯](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
