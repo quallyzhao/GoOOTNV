@@ -22,4 +22,8 @@ This is official strategy for new gopher
 - ~~第四章：新手初探~~
 - ~~第五章：新手试炼(15层终极Boss)~~
 
+### 第三部分：玩转golang 
+- 第六章：玩转golang
+    - 6.1 [be good at go](be-good-at-Go.md)
+
 
