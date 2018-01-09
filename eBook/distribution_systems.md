@@ -22,3 +22,7 @@
     + **做实验** 灰常重要，首先从lab1做起吧！
     + 实验代码可以从[传送门](https://github.com/xiaoheigou/Distributed-Systems)Clone
     + 有不会的可以加新手村群问问群主哦
+    
+- lab1 [参考](http://blog.csdn.net/bysui/article/details/52128221)
+
+
