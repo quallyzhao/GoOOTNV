@@ -4,13 +4,13 @@ package main
 import "fmt"
 
 func main() {
-var osa = make ([]string,0);
-sa:=&osa;
-for i:=0;i<10;i++{
-*sa=append(*sa,fmt.Sprintf("%v",i))
-fmt.Printf("addr of osa:%p,\taddr:%p \t content:%v\n",osa,sa,sa);
-}
-fmt.Printf("addr of osa:%p,\taddr:%p \t content:%v\n",osa,sa,sa);
+	var osa = make([]string, 0)
+	sa := &osa
+	for i := 0; i < 10; i++ {
+		*sa = append(*sa, fmt.Sprintf("%v", i))
+		fmt.Printf("addr of osa:%p,\taddr:%p \t content:%v\n", osa, sa, sa)
+	}
+	fmt.Printf("addr of osa:%p,\taddr:%p \t content:%v\n", osa, sa, sa)
 
 }
 
