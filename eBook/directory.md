@@ -25,5 +25,6 @@ This is official strategy for new gopher
 ### 第三部分：玩转golang 
 - 第六章：玩转golang
     - 6.1 [be good at go](be-good-at-Go.md)
+    - 6.2 [distribution systems](distribution_systems.md)
 
 
