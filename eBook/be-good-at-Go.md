@@ -17,4 +17,6 @@ https://studygolang.com/articles/2228
 [https://studygolang.com/articles/1914](https://studygolang.com/articles/1914)
 [参考代码](https://github.com/xiaoheigou/GoOOTNV/tree/master/monster/golang%E4%BB%A3%E7%A0%81%E7%BB%83%E4%B9%A0)
 
+#### 【玩转Golang】MD5(2018-1-9)
+[https://studygolang.com/articles/2283](https://studygolang.com/articles/2283)
 
