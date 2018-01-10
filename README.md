@@ -1,6 +1,4 @@
-简介
--------------------------------
-#### Go Out of The Novice Village   
+# GOOTNV <img src="GoOOTVN.png" width="40" height="40" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;[![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus)&nbsp;[![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus) 
 
 > Try to help new Gophers learning Go(旨在帮助go新手玩家走出新手村,更加友好的学习go)
 
