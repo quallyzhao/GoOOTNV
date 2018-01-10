@@ -1,11 +1,7 @@
-# GOOTNV <img src="GoOOTVN.png" width="60" height="60" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;[![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus)&nbsp;[![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus) 
+# GOOTNV <img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;[![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus)&nbsp;[![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus) 
 
-> - GO out of the novice village .
+> - GO out of the novice village.(Go走出新手村)
 > - Try to help new Gophers learning Go(旨在帮助go新手玩家走出新手村,更加友好的学习go)
-
-
-![](log.png)
-
 
 ### 1. Mission Map（新手地图）
 > - which book to read 
