@@ -1,3 +1,14 @@
+/**
+ * @Difficulty: Hard
+ * @Description: Implement regular expression matching with support for '.' and '*'.
+ *               实现支持“.”和“*”的正则表达式匹配。
+ * @Example: isMatch("aa","a") → false
+ *           isMatch("aa","aa") → true
+ *           isMatch("aa", "a*") → true
+ *           isMatch("aa", ".*") → true
+ *           isMatch("ab", ".*") → true
+ *           isMatch("aab", "c*a*b") → true
+ */
 
 func isMatch(s string, p string) bool {
     lens := len(s)
