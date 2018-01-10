@@ -1,9 +1,10 @@
-/*
-* @Description: Determine whether an integer is a palindrome. Do this without extra space.
-*                确定一个整数是否为回文。
-* @Example: Input: -2147483648
-*           Output: false
-*/
+/**
+ * @Difficulty: Easy
+ * @Description: Determine whether an integer is a palindrome. Do this without extra space.
+ *                确定一个整数是否为回文。
+ * @Example: Input: -2147483648
+ *           Output: false
+ */
 
 //注意负数不是回文数
 func isPalindrome(x int) bool {
