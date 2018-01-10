@@ -9,8 +9,11 @@ import (
 func main() { 
     h := md5.New() 
     h.Write([]byte("123456")) // 需要加密的字符串为 123456 
-    cipherStr := h.Sum(nil) 
+	cipherStr := h.Sum(nil) 
+	cipherStr1:= []byte("12 32")
 	fmt.Println(cipherStr) 
+	fmt.Println(cipherStr1) 
+	fmt.Printf("%x\n",cipherStr1) 
 	// %x 以16进制打印字符串
 	fmt.Printf("%x\n",cipherStr) 
     fmt.Printf("%s\n", hex.EncodeToString(cipherStr)) // 输出加密结果 

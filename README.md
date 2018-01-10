@@ -1,39 +1,47 @@
 简介
 -------------------------------
-#### Go Out of the novice Village   *(Go走出新手村)*
+#### Go Out of The Novice Village   
 
-> 旨在帮助go新手玩家走出新手村,更加友好的学习go
-> 相信看到这篇文章的都是准备拥抱go的，为什么要学习go语言----Go是最好的语言
+> Try to help new Gophers learning Go(旨在帮助go新手玩家走出新手村,更加友好的学习go)
+
 
 ![](GoOOTVN.png)
 
-新手村
+Novice Village
 ------------------------
 
-### [新手地图](eBook/directory.md)
-> 新手该选择哪些书本阅读
-> 新手可以选择哪些视频
-> [领取任务一](eBook/3.1.md)
+### 1. Mission Map（新手地图）
+> - which book to read 
+> - go fundation
+> - Include Mission 1-15
+> - [Mission Source Code](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
+> - **[Get Mission One From Here](eBook/3.1.md)**
 
-### [必敲代码](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
->新手必敲代码喽，打小怪升级
+### 2. Go algorithm and Patterns （算法与模式）
+> - [algorithm](https://github.com/0xAX/go-algorithms)
+> - [patterns](https://github.com/tmrts/go-patterns)
+> - [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
 
-### [每日资讯](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
->转自gocn.io,谢大出品，必属精品
+### 3. Be good at golang （玩转golang）
+- [玩转golang](eBook/be-good-at-Go.md)
 
-### [撸不能停](eBook/be-good-at-Go.md)
->leetcode 
->玩转golang
+### 4. Project
+- distribution system
 
-加入我们
+### 5. friendly link 
+- [gocn每日新闻](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
+
+
+Join us
 -------------------------------
-请首先加入新手村官方群QQ群，群号是：497429420,欢迎新手玩家和有意维护项目的小伙伴加入
+请首先加入新手村官方群QQ群，群号是：497429420, 欢迎新手玩家和有意维护项目的小伙伴加入
 
-历史
+History
 -------------------------------
 * 2018-1-4 倡议并得到了大家的积极响应，成立新手村
 * 2018-1-5 完成eBook第一部分&&两个任务发布&&leetcode——Day1&&必敲代码系列一（无闻）
 * 2018-1-7 任务1-5代码上传&&玩转golang开启
+* 2018-1-9 首页板块改版
 
 
 To do 
@@ -47,6 +55,6 @@ To do
 
 
 
-## 开始阅读
+## Begin Reading
 **[目录](eBook/directory.md)** 
 
