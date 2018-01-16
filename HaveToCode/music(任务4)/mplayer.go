@@ -1,19 +1,22 @@
 package main
 
 import (
-	"./library"
 	"bufio"
 	"fmt"
 	"os"
 
+	"./library"
+
 	"strconv"
 	"strings"
+
 	"./mp"
 )
 
 var lib *library.MusicManager = library.NewMusicManager()
 var id int = 1
 var play mp.Player
+
 func main() {
 	fmt.Println(`
                 Enter following commands to control the player:
@@ -36,7 +39,8 @@ func main() {
 		tokens := strings.Split(line, " ")
 		if tokens[0] == "lib" {
 			handleLibCommands(tokens)
-			} else if tokens[0] == "play" { handlePlayCommand(tokens)
+		} else if tokens[0] == "play" {
+			handlePlayCommand(tokens)
 		} else {
 			fmt.Println("Unrecognized command:", tokens[0])
 		}
@@ -53,9 +57,7 @@ func handlePlayCommand(tokens []string) {
 		fmt.Println("The music", tokens[1], "does not exist.")
 		return
 	}
-	mp.Paly(e.Name,"MP3")
-
-
+	mp.Paly(e.Name, "MP3")
 
 }
 func handleLibCommands(tokens []string) {
