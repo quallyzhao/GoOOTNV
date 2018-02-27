@@ -1,10 +1,7 @@
-# GOOTNV <img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;[![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus)&nbsp;[![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus) 
-
-> - GO out of the novice village.(Go走出新手村)
-> - Try to help new Gophers learning Go(旨在帮助go新手玩家走出新手村,更加友好的学习go)
+# GOOTNV <img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;走出新手村
 
 ### 1. Mission Map（新手地图）
-> - which book to read 
+> - which book to read
 > - go fundation
 > - Include Mission 1-15
 > - [Mission Source Code](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
@@ -21,7 +18,7 @@
 ### 4. Project
 - distribution system
 
-### 5. friendly link 
+### 5. friendly link
 - [gocn每日新闻](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
 
 
@@ -37,7 +34,7 @@ History
 * 2018-1-9 首页板块改版
 
 
-To do 
+To do
 ------------
 * ~~leetcode每日刷怪~~
 * ~~新手任务，目前发布到2~~
@@ -49,5 +46,4 @@ To do
 
 
 ## Begin Reading
-**[目录](eBook/directory.md)** 
-
+**[目录](eBook/directory.md)**
