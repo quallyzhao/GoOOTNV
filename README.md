@@ -1,11 +1,10 @@
 # GOOTNV <img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;走出新手村
 
-### 1. Mission Map（新手地图）
-> - which book to read
-> - go fundation
-> - Include Mission 1-15
-> - [Mission Source Code](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
-> - **[Get Mission One From Here](eBook/3.1.md)**
+### 1. Mission Map（新手任务）
+
+> - **[任务一领取点](eBook/3.1.md)**
+> - [任务源码](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
+
 
 ### 2. Go algorithm and Patterns （算法与模式）
 > - [algorithm](https://github.com/0xAX/go-algorithms)
