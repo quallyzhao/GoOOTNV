@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+// 熟悉控制流程 for  switch
 func main() {
 	fmt.Println("Hello Go!")
 
@@ -74,6 +74,7 @@ func main() {
 		fmt.Println("None")
 	}
 	// fmt.Println("s=", s) // error, s undefined
+	// 以下 可跳过
 BREAK_LABEL:
 	for {
 		for i := 0; i < 10; i++ {

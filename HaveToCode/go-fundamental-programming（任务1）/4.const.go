@@ -57,23 +57,6 @@ func main() {
 	fmt.Println(!true)
 	fmt.Println(1 << 10 << 10 >> 10)
 
-	/*
-		6: 0110
-		11: 1011
-		& 0010 = 2
-		| 1111 = 15
-		^ 1101 = 13
-		&^ 0100 = 4
-	*/
-	fmt.Println(6 & 11)
-	fmt.Println(6 | 11)
-	fmt.Println(6 ^ 11)
-	fmt.Println(6 &^ 11)
-
-	x := 0
-	if x > 0 && (10/x) > 1 {
-		fmt.Println("OK")
-	}
 
 	fmt.Println("KB=", KB)
 	fmt.Println("MB=", MB)

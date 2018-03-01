@@ -20,15 +20,11 @@ type gopher struct{}
 // 接口类型声明
 type golang interface{}
 
-type byte int8
 type rune int32
-type 文本 string
 
 // main函数声明
 func main() {
 	var a [1]bool
-	var b 文本
-	b = "中文类型名"
 	var c int = 1
 	d := false
 	var x, y, z = 1, 2, 3
@@ -42,7 +38,7 @@ func main() {
 	fmt.Println("a=",a)
 	fmt.Println("math.MinInt8=",math.MinInt8)
 	fmt.Println("math.MaxInt8=",math.MaxInt8)
-	fmt.Println("b=",b)
+
 	fmt.Println("c=",c)
 	fmt.Println("d=",d)
 	fmt.Println(x)
