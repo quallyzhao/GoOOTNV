@@ -1,27 +1,25 @@
-# GOOTNV <img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>&nbsp;走出新手村
+# Go新手村<img src="GoOOTVN.png" width="80" height="80" alt=":walrus:" class="emoji" title=":walrus:"/>
 
-### 1. Mission Map（新手任务）
+### 1. 新手任务
 
-> - **[任务一领取点](eBook/3.1.md)**
-> - [任务源码](https://github.com/xiaoheigou/GoOOTNV/tree/master/HaveToCode)
+> - **[任务领取点](eBook/3.1.md)**
 
-
-### 2. Go algorithm and Patterns （算法与模式）
-> - [algorithm](https://github.com/0xAX/go-algorithms)
-> - [patterns](https://github.com/tmrts/go-patterns)
+### 2. 算法与设计模式
+> - [算法](https://github.com/0xAX/go-algorithms)
+> - [设计模式](https://github.com/tmrts/go-patterns)
 > - [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
 
-### 3. Be good at golang （玩转golang）
+### 3.玩转golang
 - [玩转golang](eBook/be-good-at-Go.md)
 
-### 4. Project
-- distribution system
+### 4. Go项目
+- 分布式系统
 
-### 5. friendly link
+### 5. 友情链接
 - [gocn每日新闻](https://gocn.io/topic/%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB)
 
 
-Join us
+加入我们
 -------------------------------
 请首先加入新手村官方群QQ群，群号是：497429420, 欢迎新手玩家和有意维护项目的小伙伴加入
 
