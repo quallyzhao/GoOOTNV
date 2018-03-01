@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"io"
 )
 type Message struct {
     Name string
@@ -12,14 +13,14 @@ type Message struct {
 }
 
 func main(){
+	//1. marshal
 	m := Message{"Alice", "Hello", 1294706395881547000}
 	b, err := json.Marshal(m)
 	if err !=nil{
 
 	}
-	//b == []byte(`{"Name":"Alice","Body":"Hello","Time":1294706395881547000}`)
 	fmt.Println(string(b))
-
+	//b == []byte(`{"Name":"Alice","Body":"Hello","Time":1294706395881547000}`)
 
 	c := []byte(`{"Name":"Bob","Food":"Pickle"}`)
 	var n Message
@@ -28,6 +29,7 @@ func main(){
 		log.Fatal(err2)
 	}
 	fmt.Printf("%#v\n",n)
+	//n == main.Message{Name:"Bob", Body:"", Time:0}
 
 
 	cc := []byte(`{"Name":"Wednesday","Age":6,"Parents":["Gomez","Morticia"]}`)
@@ -56,14 +58,11 @@ func main(){
 //	}
 
 
-	//流式编解码
-	//Encode writes the JSON encoding of v to the stream,
-	// followed by a newline character.
-
-
-	// Decode reads the next JSON-encoded value from its
-	// input and stores it in the value pointed to by v.
-
+	//json 包提供了Decoder 和 Encoder 用来支持JSON 数据流的读写。函数NewDecoder 和 NewEncoder 封装了io.Reader和io.Writer 接口类型。
+	//
+	//func NewDecoder(r io.Reader) *Decoder
+	//func NewEncoder(w io.Writer) *Encoder
+	//下面是一个从标准输入读入连续的JSON object的实例程序，每个结构体只留下Name域，然后把objects写到标准输出：
 	dec := json.NewDecoder(os.Stdin)
 	enc := json.NewEncoder(os.Stdout)
 	for {
