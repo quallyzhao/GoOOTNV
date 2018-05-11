@@ -9,7 +9,7 @@
 > - [设计模式](https://github.com/tmrts/go-patterns)
 > - [leetcode](https://github.com/aQuaYi/LeetCode-in-Go)
 
-### 3.玩转golang
+### 3.Gocode 参考代码code部分
 - [玩转golang](eBook/be-good-at-Go.md)
 
 ### 4. Go项目
